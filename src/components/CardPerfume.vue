@@ -1,6 +1,6 @@
 <template>
   <div class="card">
-      <img src="../assets/image-product-desktop.jpg" alt="">
+      <img src="https://images-submarino.b2w.io/produtos/40742823/imagens/perfume-masculino-cr7-cristiano-ronaldo-100-ml-eau-de-toilette/40742821_1_large.jpg" alt="Foto do perfume">
       <div class="card__content">
         <div>
           <div class="card__content__title">
