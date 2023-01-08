@@ -60,9 +60,9 @@ export default {
     height: 100%;
   }
 
-  /* .card > .card__content div {
-    padding-bottom: 2rem;
-  } */
+  .card > .card__content div {
+    padding-bottom: 1rem;
+  }
 
   .card > .card__content .card__content__title h3 {
     color: var(--dark-grayish-blue);
