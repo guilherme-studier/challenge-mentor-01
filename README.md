@@ -2,23 +2,18 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+<br />
+
 Esta é uma solução para o [desafio do componente do cartão de visualização do produto no Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
-## Table of contents
-
-- [Overview]
-  - [Screenshot]
-    <img alt="screenshot" src="src/assets/screenshor-desk.png" width="400px" />
-    <img alt="screenshot" src="src/assets/screenshor-mobile.png" width="400px" />
-- [Author]
-  Guilherme dos Santos Studier
-- [Acknowledgments](#acknowledgments)
-
 ## Overview
+  - <img alt="screenshot" src="src/assets/screenshot-desk.png" width="400px" />
+  - <img alt="screenshot" src="src/assets/screenshot-mobile.png" width="400px" />
 
-### The challenge
+Users should be able to:
 
-Users should be able to:<br/>
+<br/>
+
 Os usuários devem ser capazes de:
 
 - [x] **View the optimal layout depending on their device's screen size**
