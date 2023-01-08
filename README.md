@@ -18,7 +18,7 @@ Esta é uma solução para o [desafio do componente do cartão de visualização
 
 ### The challenge
 
-Users should be able to:
+Users should be able to:<br/>
 Os usuários devem ser capazes de:
 
 - [x] **View the optimal layout depending on their device's screen size**
